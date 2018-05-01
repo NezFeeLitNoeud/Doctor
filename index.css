@@ -3,6 +3,7 @@
 * {
 	margin:0px;
 	padding:0px;
+  box-sizing: border-box;
 }
 
 html, body { 
@@ -23,8 +24,8 @@ width: 19%;
  }
 
 img {
-	display: block;
-    margin-left: auto;
+   display: flex;
+    margin-left: 565px;
     margin-right: auto;
     margin-top: 50px;
  }
