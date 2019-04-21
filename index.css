@@ -4,7 +4,7 @@ body {
 	padding: 0;
 	background-image: url("corps.png");
 	background-repeat: no-repeat;
-	background-position: 40% -25%;
+	background-position: 520px 100px;
 }
 
 h1 {
@@ -36,7 +36,7 @@ span {
 	display: block; height: 100%;
 	width: 20%;
 	height: 50%;
-	margin: 5% 50%;
+	margin: 50px 700px;
 }
 
 span {
@@ -61,28 +61,29 @@ span {
 }
 
 #epaule {
-    margin: 8% 36%;
+    margin: 110px 520px;
 }
 
 #coude {
-    margin: 14% 43.5%;
+    margin: 200px 630px;
 }
 
 #poignet {
-    margin: 17% 35.5%;
+    margin: 240px 515px;
 }
 
 #hanche {
-    margin: 18% 42%;
+    margin: 250px 600px;
 }
 
 #genoux {
-    margin: 25% 38%;
+    margin: 360px 550px;
 }
 
 #cheville {
-    margin: 31% 41%;
+    margin: 450px 590px;
 }
 
 #intro {
-font-size: 19px;}
+font-size: 19px;
+}
